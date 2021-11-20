@@ -1,0 +1,7 @@
+
+Matchstick
+
+At the beginning there are 30 matches, 2 players take turns to pick up matches.
+Whoever takes the last one loses.
+Each player can take between 1 and double the number of matches
+taken by the previous player.
